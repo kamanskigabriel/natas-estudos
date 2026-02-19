@@ -8,3 +8,9 @@ para usar o git devo configurar e determinar comandos
 ```bash
 git config --global
 ```
+
+## como configurar o github
+``` bash
+aula
+```
+## como criar um repositorio

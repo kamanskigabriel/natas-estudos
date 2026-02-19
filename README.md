@@ -11,6 +11,9 @@ git config --global
 ```
 
         ## como configurar o github
+comando no CMD para criar uma key e o ip do pc para vincular com a key
+criar um robo para ler essa key e dizer que a key deve ser usada na maquina que foi feita
+
 ``` bash
     aula 18/2/26 com Renan e felicidade :)
 mexendo no vscode e aprendendo a salvar no proprio vscode e etc...
@@ -21,6 +24,11 @@ Ctrl + k + o para abrir um folder
 
 "sempre anotar oque vc ve na aula pessoa denominada BL"
 ```
+---------------
+```
      ## como criar um repositorio
-     ir no github 
-     clicar na foto de perfil e ir em repositorios e clicar em NEW verde 
+ir no github 
+clicar na foto de perfil
+ir em repositorios
+clicar em NEW verde
+```

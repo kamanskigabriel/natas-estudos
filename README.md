@@ -26,9 +26,15 @@ Ctrl + k + o para abrir um folder
 ```
 ---------------
 ```
-     ## como criar um repositorio
-ir no github 
-clicar na foto de perfil
-ir em repositorios
-clicar em NEW verde
-```
+
+alert("funcionando o link")
+// funciton
+// getelementByid
+// addEventListner
+
+function questao1() {
+    alert("funcionou")
+    
+}
+const buttonquestao1 = document.getElementById("questao1")
+buttonquestao1.addEventListener('click', () => { questao1()  })

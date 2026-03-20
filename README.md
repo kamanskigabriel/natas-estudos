@@ -38,3 +38,13 @@ function questao1() {
 }
 const buttonquestao1 = document.getElementById("questao1")
 buttonquestao1.addEventListener('click', () => { questao1()  })
+
+
+<fieldset>
+  <legend>Button group</legend>
+  <input type="button" value="Button 1" />
+  <input type="button" value="Button 2" />
+  <input type="button" value="Button 3" />
+</fieldset>
+
+faz dar um destaque em botoes deixando eles m uma "caixa" tendo que ser no <body> e não no <main>

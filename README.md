@@ -47,4 +47,17 @@ buttonquestao1.addEventListener('click', () => { questao1()  })
   <input type="button" value="Button 3" />
 </fieldset>
 
-faz dar um destaque em botoes deixando eles m uma "caixa" tendo que ser no <body> e não no <main>
+faz dar um destaque em botoes deixando eles m uma "caixa" tendo que ser no <body> e não no <ma
+ 
+```
+## 
+Como criar um React Java script
+---
+Criar um novo repositorio
+Clonar ele para a maquina via git bash
+abrir o terminal em bash e excluir o pawershel
+Dar o comando
+npm create vite@latest .
+y
+y
+seta para baixo até JavaScript
